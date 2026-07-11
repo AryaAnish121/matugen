@@ -1,7 +1,6 @@
 {
   "background": "{{colors.background.default.hex | lighten: -2.5}}",
   "surfaceContainerLowest": "{{colors.surface_container_lowest.default.hex}}",
-  "overBackground": "{{colors.on_background.default.hex}}",
   "surfaceVariant": "{{colors.surface_variant.default.hex}}",
   "primary": "{{colors.primary.default.hex}}",
   "overPrimaryFixedVariant": "{{colors.on_primary_fixed_variant.default.hex}}"
